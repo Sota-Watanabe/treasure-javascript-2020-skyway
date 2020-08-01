@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8153177c4828555292b88c75f117d410",
+    "revision": "bd50200c7560266b6ca07d559a1c2400",
     "url": "/treasure-javascript-2020-skyway/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/treasure-javascript-2020-skyway/static/js/2.c3b9bed7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bee81154b00f4ce44968",
-    "url": "/treasure-javascript-2020-skyway/static/js/main.81049905.chunk.js"
+    "revision": "2b70b7660167ea43b227",
+    "url": "/treasure-javascript-2020-skyway/static/js/main.75d9f949.chunk.js"
   },
   {
     "revision": "64ed70e81014c0c19f9d",
